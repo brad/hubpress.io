@@ -9,10 +9,10 @@
     "name": "casper"
   },
   "urls": {
-    "site": "https://brad.github.io",
+    "site": "https://lucid-lichterman-eee039.netlify.com",
     "hubpress": "https://lucid-lichterman-eee039.netlify.com",
-    "theme": "//brad.github.io/themes/casper",
-    "images": "https://brad.github.io/images"
+    "theme": "//lucid-lichterman-eee039.netlify.com/themes/casper",
+    "images": "https://lucid-lichterman-eee039.netlify.com/images"
   },
   "initialisationConfigComponent": {
     "name": "initialise-configuration",
